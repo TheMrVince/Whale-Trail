@@ -2,7 +2,7 @@
 A Flappy Bird inspired game where a whale flies through clouds using Python and [Pygame](https://www.pygame.org).
 
 ## Screenshots
-![TitleScreen](https://imgur.com/gallery/Vz261ln)
+![TitleScreen](https://cdn.discordapp.com/attachments/885365409900027915/1008530824217509949/unknown.png)
 ![WhaleTrail](https://media.giphy.com/media/DRC7oiD8zDCG83mQp3/giphy.gif)
 
 
